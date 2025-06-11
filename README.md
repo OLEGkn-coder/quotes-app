@@ -1,3 +1,12 @@
+*Трішки уваги*
+Ви побачите FIDOtest1.java та FIDOtest2.sql це відповідно перше та друге тестове завдання. Все інше це третє тестове завдання. Тека src містить головні файли застосунку для цитат.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
